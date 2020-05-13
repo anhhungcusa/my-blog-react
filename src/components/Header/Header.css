@@ -1,0 +1,16 @@
+header {
+  background: #3498db;
+  margin-bottom: 50px !important;
+}
+
+header > div:last-child {
+  margin-top: 5px;
+}
+.top-bar {
+  padding: 15px 20px;
+}
+
+.top-bar .logo {
+  width: 100px;
+  height: 100px;
+}
