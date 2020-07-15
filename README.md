@@ -1,6 +1,6 @@
-# Blog-Tutorial
+# Blog
 
-Simple blog created using React.js & Node.js
+Simple blog created using React.js 
 
 ### Prerequisites
 
@@ -11,7 +11,7 @@ Make sure you have these installed on your machine
 
 ### Installing packages
 
-``` shell
+``` bash
 npm i
 ```
 
@@ -19,7 +19,7 @@ npm i
 
 To run the app (dev. mode)
 
-``` shell
+``` bash
 npm start
 ```
 
