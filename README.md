@@ -26,3 +26,11 @@ npm start
 ## Built With
 
 * [React.js](https://github.com/facebook/react) - The frontend framework used
+
+## Demo
+
+[link](https://nguyenvy-blog.web.app)
+
+## Back-end
+
+[codesanbox](https://codesandbox.io/s/bai-29-deploy-to-heroku2-g8zku)
