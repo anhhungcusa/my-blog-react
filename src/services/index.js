@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const server = 'https://g8zku.sse.codesandbox.io/api/v1'
+const server = process.env.REACT_APP_API_URL || "http://localhost:8080/"
 export const Axios = axios.create({
     baseURL: server,
     timeout: 20000,

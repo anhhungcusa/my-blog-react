@@ -26,7 +26,3 @@ npm start
 ## Built With
 
 * [React.js](https://github.com/facebook/react) - The frontend framework used
-
-## Acknowledgments
-
-* This was a tutorial for my [Medium article](https://medium.com/@_aerdeljac/learn-how-to-create-a-simple-blog-with-react-node-c05fa6889de3)

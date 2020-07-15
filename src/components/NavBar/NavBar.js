@@ -38,7 +38,7 @@ export const NavBar = () => {
 					/>
 					Blog
 				</Menu.Item>
-				<Menu.Item key="/about" icon={<FontAwesomeIcon style={{ marginRight: '5px' }} icon={faUser} />}>
+				{/* <Menu.Item key="/about" icon={<FontAwesomeIcon style={{ marginRight: '5px' }} icon={faUser} />}>
 					<NavLink
 						to="/about"
 						isActive={(match) => {
@@ -49,7 +49,7 @@ export const NavBar = () => {
 						className="nav-link"
 					/>
 					About me
-				</Menu.Item>
+				</Menu.Item> */}
 				<Menu.Item key="/manager" icon={<FontAwesomeIcon style={{ marginRight: '5px' }} icon={faUser} />}>
 					<NavLink
 						to="/manager"

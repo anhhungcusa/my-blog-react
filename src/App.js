@@ -5,7 +5,7 @@ import "./App.css";
 import { Header } from "./components/Header/Header";
 import { HomePage } from "./components/pages/Home/Home";
 import { BlogPage } from "./components/pages/Blog/Blog";
-import { AboutPage } from "./components/pages/About/About";
+// import { AboutPage } from "./components/pages/About/About";
 import { useEffect } from "react";
 import { Manager } from "./components/pages/Manager/Manager";
 
@@ -22,9 +22,6 @@ export default function App() {
             <HomePage />
           </Route>
           <Route path="/blogs" render={props => <BlogPage {...props} />}  />
-          <Route path="/about">
-            <AboutPage />
-          </Route>
           <Route path="/manager">
             <Manager />
           </Route>

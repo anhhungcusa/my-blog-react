@@ -12,5 +12,6 @@ export const AboutPage = () => {
     .catch(err => message.error(err.message))
   }, [profileId])
   return <div className="About-page">
+    {profile}
   </div>;
 };
